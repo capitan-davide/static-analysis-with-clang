@@ -1,6 +1,7 @@
 # Clang Static Analyzer Code Examples
 
-This repository contains code examples shows during the presentation "".
+This repository contains code examples shows during the presentation "Static Analysis
+with Clang".
 
 ##
 
